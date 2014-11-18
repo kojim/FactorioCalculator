@@ -1,0 +1,1 @@
+elm --set-runtime="./elm-runtime.js" FactorioCalculator.elm
